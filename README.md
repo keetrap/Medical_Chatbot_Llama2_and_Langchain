@@ -1,13 +1,12 @@
-<<<<<<< HEAD
 # Medical_Chatbot_Llama2_and_Langchain
 
 # How to run?
 ### STEPS:
 
 Clone the repository
-
+Project repo:
 ```bash
-Project repo: https://github.com/keetrap/Medical_Chatbot_Llama2_and_Langchai
+https://github.com/keetrap/Medical_Chatbot_Llama2_and_Langchai
 ```
 
 ### STEP 01- Create a virtual environment after opening the repository
@@ -68,6 +67,3 @@ open localhost:5000
 - Flask
 - Meta Llama2
 - Pinecone
-=======
-# Medical_Chatbot_Llama2_and_Langchain
->>>>>>> 9843fb4aae0bdde6a0d0b623000146a596a0430c
